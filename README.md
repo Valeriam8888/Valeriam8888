@@ -7,9 +7,8 @@
   <a href="telegram-url">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="vk-url">
-    <img src="[https://img.shields.io/badge/Telegram-blue](https://vk.cc/logo)?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+  
+  
     
 </div>
 

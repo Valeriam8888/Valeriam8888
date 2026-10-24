@@ -7,6 +7,7 @@
   <a href="telegram-url">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+    <script src="https://vk.ru/js/api/openapi.js?169" type="text/javascript"></script>
 </div>
 
 ### Обо мне
